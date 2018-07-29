@@ -8,7 +8,7 @@
   "homepage": "",
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "https://github.com/5Sigma/5sigma-ui"
   },
   "main": "lib/index.js",
   "scripts": {
